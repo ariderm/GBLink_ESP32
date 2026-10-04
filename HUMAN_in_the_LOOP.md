@@ -3,7 +3,7 @@ This project was created entirely from an idea and ChatGPT.
 The WORKFLOW.md explains the overall process, but I wanted another spot to explain the workflow.
 
 First, I started a chat and had a few back and forth messages. After about 20 messages and a picture of the CYD, I finally asked for the first firmware.
-This chat was interatively going down a rabbit hole trying to emulate a second game boy and reverse engineering the raw Pokemon protocol.
+This chat was iteratively going down a rabbit hole trying to emulate a second game boy and reverse engineering the raw Pokemon protocol.
 
 After about 12 hours of iteration, I took the current code, picture of the board and links to the other projects and started a second chat.
 This chat started with the proof that the ESP was capable of the communication. From there it stepped through many tests to slowly implement each component.
