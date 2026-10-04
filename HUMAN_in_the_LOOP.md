@@ -8,6 +8,7 @@ This chat was iteratively going down a rabbit hole trying to emulate a second ga
 After about 12 hours of iteration, I took the current code, picture of the board and links to the other projects and started a second chat.
 This chat started with the proof that the ESP was capable of the communication. From there it stepped through many tests to slowly implement each component.
 Eventually an issue from the first chat was identified, a bit not matching the CRC. This turned out to be an issue from trying to time the read instead of using an interrupt.
+This second chat was about 6 hours of iteration.
 
 Once the issue was resolved and all functions tested, a new chat was started that requested ChatGPT to provide comments and begin documentation to upload to GitHub.
 
